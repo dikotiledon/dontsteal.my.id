@@ -10,9 +10,10 @@
 <span>https://please.dontsteal.my.id/dns-query</span>
 </p>
 
-<p>DNS-over-HTTPS (DoH) : Port 853<br>
-<span>please.dontsteal.my.id</span> (Android 9+ and iOS 14+)<br>
+<p>DNS-over-TLS (DoT) : Port 853<br>
+<span>dns.dontsteal.my.id</span> (Android 9+ and iOS 14+)<br>
 or<br>
+<span>AdGuard Home</span>tls://dns.dontsteal.my.id<br>
 <span>139.177.184.65:853</span><br>
 </p>
 
